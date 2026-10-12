@@ -9,7 +9,7 @@
 <rect x="120" y="714" width="425" height="50" rx="25" fill="#e6f3ff"/><text x="332" y="746" text-anchor="middle" font-size="18" fill="#47647a">پیش‌نمایش طراحی با دادهٔ نمایشی</text>
 <g filter="url(#shadow)"><rect x="714" y="55" width="402" height="788" rx="52" fill="#183247"/><rect x="724" y="65" width="382" height="768" rx="43" fill="#f8fcff"/></g>
 <rect x="850" y="79" width="130" height="24" rx="12" fill="#183247"/>
-<text x="915" y="155" text-anchor="middle" font-size="24" font-weight="bold">آزادبرد</text><text x="915" y="190" text-anchor="middle" font-size="15" fill="#648094">آماده برای اتصال</text>
+<text x="915" y="155" text-anchor="middle" font-size="24" font-weight="bold">پرنده آزاد</text><text x="915" y="190" text-anchor="middle" font-size="15" fill="#648094">آماده برای اتصال</text>
 <circle cx="915" cy="310" r="99" fill="#fff" stroke="#e2eff8" stroke-width="3"/><g transform="translate(846 241) scale(.63)">  <g id="viewport" transform="translate(-305 -95)" fill="#007FE5">
     <g id="visible-wing" transform="rotate(0 418 210)">
       <path d="M 343,109 C 334,103 331,134 341,151 C 346,161 352,166 359,171 C 351,170 347,167 344,165 C 347,183 357,194 369,201 C 361,201 357,198 354,196 C 362,216 380,229 399,231 C 415,224 423,203 426,175 C 418,157 401,150 383,143 C 364,135 352,124 343,109 Z"/>
