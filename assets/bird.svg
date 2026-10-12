@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" width="220" height="220">
+  <title>AzadBird articulated source — unchanged resting silhouette</title>
+  <desc>Derived from the project azadbird_bird.xml. Pigment #007FE5. Draw visible-wing first, body-head-tail second. Shoulder pivot in translated viewport is (113,115); original coordinates (418,210). Wing clockwise rotation 0 to 8 degrees only. Body has an internal overlap under the wing seam. No second wing invented.</desc>
+  <g id="viewport" transform="translate(-305 -95)" fill="#007FE5">
+    <g id="visible-wing" transform="rotate(0 418 210)">
+      <path d="M 343,109 C 334,103 331,134 341,151 C 346,161 352,166 359,171 C 351,170 347,167 344,165 C 347,183 357,194 369,201 C 361,201 357,198 354,196 C 362,216 380,229 399,231 C 415,224 423,203 426,175 C 418,157 401,150 383,143 C 364,135 352,124 343,109 Z"/>
+    </g>
+    <g id="body-head-tail">
+      <path d="M 399,231 C 383,250 359,257 338,268 C 335,270 335,273 339,276 L 370,298 C 374,301 378,300 381,294 C 389,281 402,275 418,269 C 456,255 478,231 479,199 C 479,187 477,177 479,166 C 481,156 486,151 491,149 C 487,144 482,143 478,142 C 464,128 448,130 439,140 C 430,150 433,165 426,175 C 418,193 408,215 391,228 L 399,231 Z"/>
+    </g>
+  </g>
+</svg>

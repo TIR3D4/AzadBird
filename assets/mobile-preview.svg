@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="900" viewBox="0 0 1280 900">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#f8fcff"/><stop offset="1" stop-color="#dcefff"/></linearGradient><radialGradient id="halo"><stop stop-color="#c6e9ff"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient><filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="22" flood-color="#19476b" flood-opacity=".14"/></filter></defs>
+<rect width="1280" height="900" rx="36" fill="url(#bg)"/><circle cx="940" cy="420" r="440" fill="url(#halo)"/>
+<g font-family="Tahoma,Arial,sans-serif" fill="#102f4a">
+<text x="120" y="210" font-size="66" font-weight="bold">AzadBird</text><text x="120" y="268" font-size="30" fill="#1679bf">آزادبرد</text>
+<text x="545" y="370" font-size="30" text-anchor="end">اشتراک‌های شما</text><text x="545" y="419" font-size="30" text-anchor="end">اتصال در اختیار شما</text>
+<rect x="120" y="474" width="425" height="1" fill="#b9d5e6"/>
+<text x="545" y="527" font-size="22" text-anchor="end" fill="#4b6b80">انتخاب خودکار و دستی سرور</text><text x="545" y="572" font-size="22" text-anchor="end" fill="#4b6b80">مدیریت چند اشتراک مستقل</text><text x="545" y="617" font-size="22" text-anchor="end" fill="#4b6b80">طراحی فارسی برای اندروید</text>
+<rect x="120" y="714" width="425" height="50" rx="25" fill="#e6f3ff"/><text x="332" y="746" text-anchor="middle" font-size="18" fill="#47647a">پیش‌نمایش طراحی با دادهٔ نمایشی</text>
+<g filter="url(#shadow)"><rect x="714" y="55" width="402" height="788" rx="52" fill="#183247"/><rect x="724" y="65" width="382" height="768" rx="43" fill="#f8fcff"/></g>
+<rect x="850" y="79" width="130" height="24" rx="12" fill="#183247"/>
+<text x="915" y="155" text-anchor="middle" font-size="24" font-weight="bold">آزادبرد</text><text x="915" y="190" text-anchor="middle" font-size="15" fill="#648094">آماده برای اتصال</text>
+<circle cx="915" cy="310" r="99" fill="#fff" stroke="#e2eff8" stroke-width="3"/><g transform="translate(846 241) scale(.63)">  <g id="viewport" transform="translate(-305 -95)" fill="#007FE5">
+    <g id="visible-wing" transform="rotate(0 418 210)">
+      <path d="M 343,109 C 334,103 331,134 341,151 C 346,161 352,166 359,171 C 351,170 347,167 344,165 C 347,183 357,194 369,201 C 361,201 357,198 354,196 C 362,216 380,229 399,231 C 415,224 423,203 426,175 C 418,157 401,150 383,143 C 364,135 352,124 343,109 Z"/>
+    </g>
+    <g id="body-head-tail">
+      <path d="M 399,231 C 383,250 359,257 338,268 C 335,270 335,273 339,276 L 370,298 C 374,301 378,300 381,294 C 389,281 402,275 418,269 C 456,255 478,231 479,199 C 479,187 477,177 479,166 C 481,156 486,151 491,149 C 487,144 482,143 478,142 C 464,128 448,130 439,140 C 430,150 433,165 426,175 C 418,193 408,215 391,228 L 399,231 Z"/>
+    </g>
+  </g>
+</g>
+<rect x="786" y="425" width="258" height="52" rx="26" fill="#007fe5"/><text x="915" y="458" text-anchor="middle" font-size="21" fill="#fff">اتصال</text>
+<rect x="748" y="503" width="156" height="85" rx="19" fill="#fff" stroke="#e2ecf4"/><rect x="925" y="503" width="156" height="85" rx="19" fill="#fff" stroke="#e2ecf4"/>
+<text x="826" y="533" text-anchor="middle" font-size="14" fill="#688292">زمان باقی‌مانده</text><text x="1003" y="533" text-anchor="middle" font-size="14" fill="#688292">حجم باقی‌مانده</text><text x="826" y="568" text-anchor="middle" font-size="24">—</text><text x="1003" y="568" text-anchor="middle" font-size="24">—</text>
+<rect x="748" y="607" width="333" height="75" rx="19" fill="#fff" stroke="#e2ecf4"/><text x="1057" y="637" text-anchor="end" font-size="14" fill="#688292">اشتراک نمونه</text><text x="1057" y="665" text-anchor="end" font-size="18">انتخاب خودکار سرور</text><text x="774" y="654" font-size="27" fill="#007fe5">‹</text>
+<text x="915" y="718" text-anchor="middle" font-size="15" fill="#237cb8">پشتیبانی تلگرام  ·  خرید و تمدید</text><path d="M748 746h333" stroke="#dceaf3"/><text x="1007" y="780" text-anchor="middle" font-size="15" fill="#007fe5">خانه</text><text x="914" y="780" text-anchor="middle" font-size="15" fill="#647f91">اشتراک‌ها</text><text x="809" y="780" text-anchor="middle" font-size="15" fill="#647f91">تنظیمات</text><rect x="859" y="813" width="112" height="4" rx="2" fill="#a7b9c8"/>
+</g></svg>
